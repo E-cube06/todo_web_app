@@ -1,7 +1,6 @@
 import streamlit as st
 import function
 
-
 todos = function.get_todos()
 
 
