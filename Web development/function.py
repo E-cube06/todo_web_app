@@ -1,5 +1,5 @@
 FILEPATH = "todos.txt"
-import time
+
 
 def get_todos(filepath=FILEPATH):
     """
